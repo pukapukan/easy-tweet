@@ -33,8 +33,8 @@ Twitter.prototype.tweet = function(/* message, options, callback */) {
   }
 
   options = options || { };
-  for(var key in option) {
-    param[key] = option[key];
+  for(var key in options) {
+    param[key] = options[key];
   }
   param.status = message;
 
