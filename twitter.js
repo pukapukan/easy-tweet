@@ -16,8 +16,6 @@ var Twitter =  function Twitter(key, secret, token, tokenSecret) {
   this._tokenSecret = tokenSecret;
 };
 
-/*
-*/
 Twitter.prototype.tweet = function(/* message, options, callback */) {
   var param = { },
   message = arguments[0],

@@ -1,12 +1,13 @@
 {
   "name": "easy-tweet",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple node.js module for tweet",
   "main": "twitter.js",
   "keywords": [
     "tweeter",
     "tweet"
   ],
+  "homepage": "https://github.com/pukapukan/easy-tweet",
   "repository": {
     "type": "git",
     "url": "https://github.com/pukapukan/easy-tweet.git"
