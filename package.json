@@ -2,7 +2,7 @@
   "name": "easy-tweet",
   "version": "0.0.0",
   "description": "Simple node.js module for tweet",
-  "main": "tweet.js",
+  "main": "twitter.js",
   "keywords": [
     "tweeter",
     "tweet"
