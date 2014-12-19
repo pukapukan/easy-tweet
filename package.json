@@ -1,0 +1,19 @@
+{
+  "name": "easy-tweet",
+  "version": "0.0.0",
+  "description": "Simple node.js module for tweet",
+  "main": "tweet.js",
+  "keywords": [
+    "tweeter",
+    "tweet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pukapukan/easy-tweet.git"
+  },
+  "dependencies": {
+    "oauth": "*"
+  },
+  "author": "Jason Park",
+  "license": "MIT"
+}
